@@ -6,7 +6,7 @@ A consulta médica na Atenção Primária a Saúde com abordagem centrada na pes
 
 Ao final da disciplina de Saúde da Família IV, com o desenvolvimento das atividades teóricas e práticas, espera-se que o estudante seja capaz de: 
 
-## Objetivos Gerais:
+## Objetivos Gerais
 - Compreender a importância da integralidade ao cuidado do paciente, considerando o ambiente e a família que está inserida para um Projeto Terapêutico Singular assertivo e resolutivo
 
 ### Objetivos Específicos: 
