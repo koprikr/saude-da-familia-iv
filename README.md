@@ -1,5 +1,5 @@
 # saude-da-familia-iv
-Repositória da Disciplina de Saúde da Família IV - Estácio | IDOMED Jaraguá do Sul
+Repositório da Disciplina de Saúde da Família IV - Estácio | IDOMED Jaraguá do Sul
 
 ## Ementa
 A consulta médica na Atenção Primária a Saúde com abordagem centrada na pessoa integrando o ambiente onde está inserido o seu núcleo familiar. Habilidades de comunicação utilizadas em uma consulta médica; métodos de registro de uma consulta médica; tipologia familiar; cuidado domiciliar; Projeto Terapêutico Singular
