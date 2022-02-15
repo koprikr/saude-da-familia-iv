@@ -73,7 +73,7 @@ DUNCAN, B. D.; SCHMIDT, M. I.; GIULIANI, E. R. J. et al l. Medicina ambulatorial
 FREEMAN, T. Manual de Medicina de Família e Comunidade de McWHINNEY. 4. Porto Alegre: Artmed., 2018. 
 GUSSO, Gustavo; LOPES, José Mauro Ceratti, DIAS Leda Chaves. Tratado de Medicina de Família e Comunidade: princípios, formação e prática. 2a. Porto Alegre: Artmed, 2019. 2V. 2a. Porto Alegre: Artmed, 2019. 2. 
 
-Referências Complementares
+### Referências Complementares
 
 TEIXEIRA, Carmen Fontes; SOLLA Jorge Pereira.  Modelo de atenção à saúde: promoção, vigilância e saúde da família. Salvador: EDUFBA, 2006. 237p. 
 
